@@ -48,7 +48,7 @@ A simple and efficient Student Management System developed using Java. This cons
 
 ## 📸 Screenshots
 
-### **Main Menu**
+### Main Menu
 
 ![Output1](Output1.png)
 
