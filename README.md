@@ -84,7 +84,7 @@ java StudentManagementSystem
 
 ## 📸 Screenshots
 
-### Main Menu
+### **Main Menu**
 
 ![Output1](Output1.png)
 
