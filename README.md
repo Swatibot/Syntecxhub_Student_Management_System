@@ -34,13 +34,21 @@ A simple and efficient Student Management System developed using Java. This cons
 
 StudentManagementSystem/
 │
+
 ├── StudentManagementSystem.java
+
 ├── README.md
+
 └── Screenshots/
+
     ├── Output1.png
+    
     ├── Output2.png
+    
     ├── Output3.png
+    
     └── Output4.png
+    
     └── Output5.png
 ```
 
