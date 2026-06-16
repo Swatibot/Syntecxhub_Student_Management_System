@@ -124,7 +124,7 @@ java StudentManagementSystem
 
 ## 👨‍💻 Author
 
-Ashirbada Behera
+Swatishree Padhiary
 
 ---
 
