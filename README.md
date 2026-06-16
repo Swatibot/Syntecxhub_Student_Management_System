@@ -30,42 +30,6 @@ A simple and efficient Student Management System developed using Java. This cons
 
 ---
 
-## 📂 Project Structure
-
-StudentManagementSystem/
-│
-
-├── StudentManagementSystem.java
-
-├── README.md
-
-└── Screenshots/
-
-    ├── Output1.png
-    
-    ├── Output2.png
-    
-    ├── Output3.png
-    
-    └── Output4.png
-    
-    └── Output5.png
-```
-
----
-
-## 🚀 How to Run
-
-### Step 1: Compile the Program
-
-javac StudentManagementSystem.java
-
-### Step 2: Run the Program
-
-java StudentManagementSystem
-
----
-
 ## 🎯 Functionalities
 
 ⭐ Add Student Details
